@@ -6,7 +6,7 @@ Research Intern
 
 I am a dedicated coder driven by a curiosity for understanding the intricacies of large-scale systems. With a profound interest in the Internet of Things (IoT), I secured a national-level 1st prize in a Google Campus fest for an Android application developed in Kotlin. Currently serving as a Research Intern at the Smart City Living Lab within the International Institute of Information Technology, Hyderabad, I actively contribute to innovative projects at the intersection of diverse technological domains.
 
-* 🌍  I'm based in Hyderabad, India
+
 * ✉️  You can contact me at [yasaswinianudurga@gmail.com](mailto:yasaswinianudurga@gmail.com)
 * 🧠  I'm learning Docker
 
